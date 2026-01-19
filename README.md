@@ -1,4 +1,4 @@
-# 🌿 Serenity - MERN Authentication App
+# 🌿Instaview
 
 A full-stack authentication application built with MongoDB, Express, React, and Node.js featuring a calming, nature-inspired design.
 
